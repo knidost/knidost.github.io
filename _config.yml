@@ -41,6 +41,13 @@ minima:
 twitter_username: jekyllrb
 github_username:  jekyll
 rss: rss
+
+
+backend:
+  name: github
+  repo: ardarda/ardarda.github.io # your GitHub username and repository name, separated by a slash
+  branch: master # optional, default value is "master"
+
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
