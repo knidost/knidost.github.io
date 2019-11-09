@@ -24,11 +24,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: minima
 
 plugins:
-  - jekyll-analytics:
-      GoogleAnalytics:          # Add, if you want to track with Google Analytics
-        id: UA-151901126-1          # Required - replace with your tracking id
-        anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
-
+  - jekyll-analytics
+  jekyll_analytics:
+    GoogleAnalytics:          # Add, if you want to track with Google Analytics
+      id: UA-151901126-1          # Required - replace with your tracking id
+      anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
 # minima theme settings
 show_excerpts: false # set to true to show excerpts on the homepage
