@@ -4,3 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+
+![](/img/uploads/unknown.jpeg)
+
+
+{% include youtube.html id="08_AarI_cKU" %}
