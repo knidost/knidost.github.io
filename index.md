@@ -8,4 +8,4 @@ layout: home
 ![](/img/uploads/bfd2ad8a-dfc7-4be1-a455-8fcd528981a0.JPG)
 
 
-{% include youtube.html id="08_AarI_cKU" %}
+<!-- {% include youtube.html id="08_AarI_cKU" %} -->
