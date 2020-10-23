@@ -8,6 +8,7 @@ For French, German and Spanish versions please scroll down
 
 
 Greetings fellow climbers
+
   Datça rock climbing is an organization which is founded by local climbers has the goals of promoting the climbing community, maintenance of the crags and the equipments on the walls and developing new crags that the great potential Datça has.
   We are in direct contact with the Swiss climber Olivier Nicole that has been the biggest developer so far in Datça as well as the elite climbers in Turkey that dedicated their life to climbing and opening new routes.
    Our climbing guidebook is on pending right now though we can provide you with digital or print out topos. Datça is well known for hard sport climbing with the grades between 7b upto 9b but also we had lots of fun and beautiful routes from 5a to 7a. Being a local here in Datça we climb almost everyday that we can direct you with the information on the approaches, orientations and the aspects (E/W/N/S) of the crags and more information that you might wonder about climbing in Datça. 
@@ -23,6 +24,7 @@ Datca rock climbing team
 
 
 Salut amis grimpeurs!
+
 Datça rock climbing est une association créée par des grimpeurs locaux et qui a pour objectif de faire connaitre notre communauté, assurer l'entretien des falaises, équiper les parois et développer de nouveaux secteurs d'escalade à Datça.
 Nous sommes en contact avec Olivier Nicolet, guide de haute montagne Suisse, qui a équipé et aménagé une grande partie des voies à Datça ainsi qu'avec les meilleurs grimpeurs de Turquie qui consacrent leur vie à grimper et ouvrir de nouvelles voies. Notre topo d'escalade est en cours d'édition, en attendant nous pouvons vous proposer une version numérique ou imprimée.
 Datça est connue pour son niveau d'escalade très élevé avec un grand nombre de voies qui vont du 7b au 9b, mais on y trouve aussi beaucoup de belles voies à l'escalade variée allant du 5a au 7a.
@@ -42,6 +44,7 @@ A bientôt!
 
 
 Bueno 😅 allí lo tienes
+
 Liebe Kletterfreunde, Datca ist eine von lokalen Kletterern gegründete Organisation mit dem Ziel unsere Gegend bekannter zu machen, das Klettergebiet und die Sektoren mit eingebohrten Routen zu pflegen und neue Sektoren zu eröffnen.
 Wir pflegen regelmässigen Kontakt zu dem Schweizer Oliver Nicolet- er hat die meisten Routen eingerichtet - und den besten türkischen Kletterern die sich das Klettern und eröffnen neuer Routen zur Lebensaufgabe gemacht haben.
 Noch ist unser endgültiger Kletterführer nicht erhältlich aber wir können euch gerne vorab eine digitale Routenbeschreibung oder Ausdruck zukommen lassen.
